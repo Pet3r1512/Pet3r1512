@@ -2,7 +2,7 @@
 
 ## Welcom to my Personal Github Page!
 
-https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge
+[LinkIn](https://img.shields.io/badge/-LinkedIn-blue)
 
 <!--
 **Pet3r1512/Pet3r1512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
