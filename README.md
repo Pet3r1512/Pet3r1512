@@ -14,6 +14,9 @@
 
    * IDE: ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+### Most used Languages
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Pet3r1512&theme=blue-green)
+
 
 ### My Stats
 [![Pet3r's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pet3r1512)](https://github.com/anuraghazra/github-readme-stats)
