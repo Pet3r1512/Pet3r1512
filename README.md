@@ -4,13 +4,27 @@
 ### Technology Envovled
    * <strong>Programming languages</strong>: C, Java, Python
  
-   * <strong>Web Development</strong>: ReactJS, NextJS, ExpressJS
-   
-   * Design inspirations : ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-   
-   * Database paradigms: ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+   * <strong>Web Development</strong>: 
+   - HTML5(HTML-preprocessors: Pug, Handlebars, EJS), CSS3(CSS-preprocessors: SASS, CSS Frameworks: Bootstrap, Tailwind), JavaSript(ES6)
+   - ReactJS(Create-react-app, ViteJS), NextJS, ExpressJS
+   - UI Libraries: MUI, DaisyUI
 
-   * IDE: ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+   * <strong>APIs</strong>: REST
+   
+   * <strong>Databases</strong>: 
+   - SQL: MS SQL Server, SQLite
+   - NoSQL: MongoDB
+   - ORM: Prisma
+
+   * <strong>Cross-platform Development</strong>: Flutter
+
+   * <strong>Hosting</strong>: Vercel, Railwway, Gtihub Pages
+
+   * <strong>Design Ideas</strong>: Figma Community, Dribbble
+
+   * <strong>Designing</strong>: Figma, Canva (Basics)
+
+   * <strong>Tools</strong>: Visual Studio Code, Git, Terminal (Powershell)
 
 ### Most used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pet3r1512&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
