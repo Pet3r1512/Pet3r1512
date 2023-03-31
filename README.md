@@ -9,22 +9,22 @@
       - ReactJS(Create-react-app, ViteJS), NextJS, ExpressJS
       - UI Libraries: MUI, DaisyUI
 
-   * <strong>APIs</strong>: REST
+   - <strong>APIs</strong>: REST
    
-   * <strong>Databases</strong>: 
-   - SQL: MS SQL Server, SQLite
-   - NoSQL: MongoDB
-   - ORM: Prisma
+   - <strong>Databases</strong>: 
+      - SQL: MS SQL Server, SQLite
+      - NoSQL: MongoDB
+      - ORM: Prisma
 
-   * <strong>Cross-platform Development</strong>: Flutter
+   - <strong>Cross-platform Development</strong>: Flutter
 
-   * <strong>Hosting</strong>: Vercel, Railwway, Gtihub Pages
+   - <strong>Hosting</strong>: Vercel, Railwway, Gtihub Pages
 
-   * <strong>Design Ideas</strong>: Figma Community, Dribbble
+   - <strong>Design Ideas</strong>: Figma Community, Dribbble
 
-   * <strong>Designing</strong>: Figma, Canva (Basics)
+   - <strong>Designing</strong>: Figma, Canva (Basics)
 
-   * <strong>Tools</strong>: Visual Studio Code, Git, Terminal (Powershell)
+   - <strong>Tools</strong>: Visual Studio Code, Git, Terminal (Powershell)
 
 ### Most used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pet3r1512&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
