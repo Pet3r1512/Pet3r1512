@@ -14,7 +14,7 @@
    - <strong>Databases</strong>: 
       - SQL: MS SQL Server, SQLite
       - NoSQL: MongoDB
-      - ORM: Prisma
+      - ORM: Prisma, Mongoose
 
    - <strong>Cross-platform Development</strong>: Flutter
 
