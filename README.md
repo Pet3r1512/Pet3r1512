@@ -1,7 +1,7 @@
-### Hi there 👋 
+# Hi there 👋 
 
 # My name is Peter <3 from Vietnam ![](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/36/country-4x3/vn.png)
-### Technology Envovled
+## Technology Envovled
    - <strong>Programming languages</strong>: C, Java, Python
  
    - <strong>Web Development</strong>: 
