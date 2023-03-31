@@ -26,7 +26,7 @@
 
    - <strong>Designing</strong>: Figma, Canva (Basics)
 
-   - <strong>Tools</strong>: Visual Studio Code, Git, Terminal (Powershell)
+   - <strong>Tools</strong>: Visual Studio Code, Git, Terminal (Powershell), Postman
 
 ### Most used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pet3r1512&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
