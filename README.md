@@ -6,7 +6,7 @@
  
    - <strong>Web Development</strong>: 
       - HTML5(HTML-preprocessors: Pug, Handlebars, EJS), CSS3(CSS-preprocessors: SASS, CSS Frameworks: Bootstrap, Tailwind), JavaSript(ES6)
-      - ReactJS(Create-react-app, ViteJS), NextJS, ExpressJS
+      - ReactJS, NextJS, ExpressJS
       - UI Libraries: MUI, DaisyUI
 
    - <strong>APIs</strong>: REST
@@ -21,6 +21,8 @@
    - <strong>Hosting</strong>: Vercel, Railwway, Gtihub Pages
 
    - <strong>Design Ideas</strong>: Figma Community, Dribbble
+
+   - <strong>Package management, bundling and build tools</strong>: NPM, ViteJS
 
    - <strong>Designing</strong>: Figma, Canva (Basics)
 
