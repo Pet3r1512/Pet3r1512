@@ -2,12 +2,12 @@
 
 # My name is Peter <3 from Vietnam ![](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/36/country-4x3/vn.png)
 ### Technology Envovled
-   * <strong>Programming languages</strong>: C, Java, Python
+   - <strong>Programming languages</strong>: C, Java, Python
  
-   * <strong>Web Development</strong>: 
-   HTML5(HTML-preprocessors: Pug, Handlebars, EJS), CSS3(CSS-preprocessors: SASS, CSS Frameworks: Bootstrap, Tailwind), JavaSript(ES6)
-   ReactJS(Create-react-app, ViteJS), NextJS, ExpressJS
-   UI Libraries: MUI, DaisyUI
+   - <strong>Web Development</strong>: 
+      - HTML5(HTML-preprocessors: Pug, Handlebars, EJS), CSS3(CSS-preprocessors: SASS, CSS Frameworks: Bootstrap, Tailwind), JavaSript(ES6)
+      - ReactJS(Create-react-app, ViteJS), NextJS, ExpressJS
+      - UI Libraries: MUI, DaisyUI
 
    * <strong>APIs</strong>: REST
    
