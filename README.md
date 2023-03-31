@@ -24,9 +24,11 @@
 
    - <strong>Package management and build tools</strong>: NPM, ViteJS
 
-   - <strong>Designing</strong>: Figma, Canva (Basics)
+   - <strong>UI Designing</strong>: Figma(Basics)
 
    - <strong>Tools</strong>: Visual Studio Code, Git, Terminal (Powershell), Postman
+
+   - <strong>Others understanding</strong>: Object-oriented programming, Discrete structures, Basis Data Analyzing(CSV): Python
 
 ### Most used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pet3r1512&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
