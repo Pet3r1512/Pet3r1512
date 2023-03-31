@@ -22,7 +22,7 @@
 
    - <strong>Design Ideas</strong>: Figma Community, Dribbble
 
-   - <strong>Package management, bundling and build tools</strong>: NPM, ViteJS
+   - <strong>Package management and build tools</strong>: NPM, ViteJS
 
    - <strong>Designing</strong>: Figma, Canva (Basics)
 
