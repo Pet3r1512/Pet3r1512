@@ -15,16 +15,17 @@
       - SQL: MS SQL Server, SQLite
       - NoSQL: MongoDB
       - ORM: Prisma, Mongoose
+      - Google Firebase
 
-   - <strong>Cross-platform Development</strong>: Flutter
+   - <strong>Cross-platform Development</strong>: Flutter (Basics)
 
-   - <strong>Hosting</strong>: Vercel, Railwway, Gtihub Pages
+   - <strong>Hosting</strong>: Vercel, Railwway, Gtihub Pages, Render
 
    - <strong>Design Ideas</strong>: Figma Community, Dribbble
 
    - <strong>Package management and build tools</strong>: NPM, ViteJS
 
-   - <strong>UI Designing</strong>: Figma(Basics)
+   - <strong>UI Designing</strong>: Figma (Basics)
 
    - <strong>Tools</strong>: Visual Studio Code, Git, Terminal (Powershell), Postman
 
