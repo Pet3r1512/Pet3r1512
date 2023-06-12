@@ -5,9 +5,9 @@
    - <strong>Programming languages</strong>: C, Java, Python
  
    - <strong>Web Development</strong>: 
-      - HTML5(HTML-preprocessors: Pug, Handlebars, EJS), CSS3(CSS-preprocessors: SASS, CSS Frameworks: Bootstrap, Tailwind), JavaSript(ES6)
+      - HTML5(HTML-preprocessors: Pug, Handlebars, EJS), CSS3(CSS-preprocessors: SASS, CSS Frameworks: Bootstrap, Tailwind), JavaSript(ES6), TypeScript(learning)
       - ReactJS, NextJS, ExpressJS
-      - UI Libraries: MUI, DaisyUI
+      - UI Libraries: MUI, DaisyUI, Shadcn
 
    - <strong>APIs</strong>: REST
    
@@ -19,7 +19,7 @@
 
    - <strong>Cross-platform Development</strong>: Flutter (Basics)
 
-   - <strong>Hosting</strong>: Vercel, Railwway, Gtihub Pages, Render
+   - <strong>Hosting</strong>: Vercel, Railway, Gtihub Pages, Render
 
    - <strong>Design Ideas</strong>: Figma Community, Dribbble
 
