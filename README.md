@@ -29,6 +29,8 @@
 
    - <strong>Tools</strong>: Visual Studio Code, Git, Terminal (Powershell), Postman
 
+   - <strong>Collaboration tool</strong>: Taskade, Jira, Discord
+
    - <strong>Others understanding</strong>: Object-oriented programming, Discrete structures, Basis Data Analyzing(CSV): Python
 
 ### Most used Languages
