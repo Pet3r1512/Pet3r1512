@@ -5,7 +5,7 @@
    - <strong>Programming languages</strong>: C, Java, Python
  
    - <strong>Web Development</strong>: 
-      - HTML5(HTML-preprocessors: Pug, Handlebars, EJS), CSS3(CSS-preprocessors: SASS, CSS Frameworks: Bootstrap, Tailwind), JavaSript(ES6), TypeScript(learning)
+      - HTML5(HTML-preprocessors: Pug, Handlebars, EJS), CSS3(CSS-preprocessors: SASS, CSS Frameworks: Bootstrap, Tailwind), JavaSript(ES6), TypeScript
       - ReactJS, NextJS, ExpressJS
       - UI Libraries: MUI, DaisyUI, Shadcn
 
@@ -15,7 +15,7 @@
       - SQL: MS SQL Server, SQLite
       - NoSQL: MongoDB
       - ORM: Prisma, Mongoose
-      - Google Firebase
+      - Google Firebase, Supabase
 
    - <strong>Cross-platform Development</strong>: Flutter (Basics)
 
@@ -31,7 +31,7 @@
 
    - <strong>Collaboration tools</strong>: Taskade, Jira, Discord
 
-   - <strong>Operating System</strong>: Windows, Linux(Pop OS)
+   - <strong>Operating Systems</strong>: Windows, Linux(Pop OS)
 
    - <strong>Others understanding</strong>: Object-oriented programming, Discrete structures, Basis Data Analyzing(CSV): Python
 
