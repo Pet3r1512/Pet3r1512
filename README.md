@@ -31,6 +31,8 @@
 
    - <strong>Collaboration tools</strong>: Taskade, Jira, Discord
 
+   - <strong>Operating System</strong>: Windows, Linux(Pop OS)
+
    - <strong>Others understanding</strong>: Object-oriented programming, Discrete structures, Basis Data Analyzing(CSV): Python
 
 ### Most used Languages
