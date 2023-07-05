@@ -7,7 +7,7 @@
    - <strong>Web Development</strong>: 
       - HTML5(HTML-preprocessors: Pug, Handlebars, EJS), CSS3(CSS-preprocessors: SASS, CSS Frameworks: Bootstrap, Tailwind), JavaSript(ES6), TypeScript
       - ReactJS, NextJS, ExpressJS
-      - UI Libraries: MUI, DaisyUI, Shadcn
+      - UI Libraries: MUI, DaisyUI, Shadcn, Tailwind Material
 
    - <strong>APIs</strong>: REST
    
