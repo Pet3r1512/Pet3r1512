@@ -27,7 +27,7 @@
 
    - <strong>UI Designing</strong>: Figma (Basics)
 
-   - <strong>Tools</strong>: Visual Studio Code, Git, Terminal (Powershell), Postman
+   - <strong>Tools</strong>: Visual Studio Code, Git, Terminal (Powershell), Alacritty
 
    - <strong>Collaboration tools</strong>: Taskade, Jira, Discord
 
