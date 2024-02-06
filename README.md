@@ -14,12 +14,12 @@
    - <strong>Databases</strong>: 
       - SQL: MS SQL Server, SQLite
       - NoSQL: MongoDB
-      - ORM: Prisma, Mongoose
-      - Google Firebase, Supabase
+      - ORM: Prisma
+      - Google Firebase, Supabase, Planerscale
 
    - <strong>Cross-platform Development</strong>: Flutter (Basics)
 
-   - <strong>Hosting</strong>: Vercel, Railway, Gtihub Pages, Render
+   - <strong>Testing and hosting</strong>: Vercel, Railway, Gtihub Pages, Render, CircleCI
 
    - <strong>Design Ideas</strong>: Figma Community, Dribbble
 
@@ -33,7 +33,7 @@
 
    - <strong>Operating Systems</strong>: Windows, Linux(Pop OS)
 
-   - <strong>Others understanding</strong>: Object-oriented programming, Discrete structures, Basis Data Analyzing(CSV): Python
+   - <strong>Others understanding</strong>: Object-oriented programming, Basis Data Analyzing(CSV): Python
 
 ### Most used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pet3r1512&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
