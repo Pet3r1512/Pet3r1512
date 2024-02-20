@@ -15,9 +15,7 @@
       - SQL: MS SQL Server, SQLite
       - NoSQL: MongoDB
       - ORM: Prisma
-      - Google Firebase, Supabase, Planerscale
-
-   - <strong>Cross-platform Development</strong>: Flutter (Basics)
+      - Google Firebase, Supabase, Planetscale
 
    - <strong>Testing and hosting</strong>: Vercel, Railway, Gtihub Pages, Render, CircleCI
 
