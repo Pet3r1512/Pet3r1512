@@ -6,8 +6,8 @@
  
    - <strong>Web Development</strong>: 
       - HTML5(HTML-preprocessors: Pug, Handlebars, EJS), CSS3(CSS-preprocessors: SASS, CSS Frameworks: Bootstrap, Tailwind), JavaSript(ES6), TypeScript
-      - ReactJS, NextJS, ExpressJS
-      - UI Libraries: MUI, DaisyUI, Shadcn, Tailwind Material
+      - Libraries and Frameworks: ReactJS, NextJS(Page Router), ExpressJS
+      - UI Libraries: MUI, DaisyUI, Shadcn, Tailwind Material, Aceternity
 
    - <strong>APIs</strong>: REST
    
@@ -15,7 +15,7 @@
       - SQL: MS SQL Server, SQLite
       - NoSQL: MongoDB
       - ORM: Prisma
-      - Google Firebase, Supabase, Planetscale
+      - Google Firebase, Supabase, Planetscale, Xata
 
    - <strong>Testing and hosting</strong>: Vercel, Railway, Gtihub Pages, Render, CircleCI
 
