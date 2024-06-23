@@ -40,4 +40,4 @@
 [![Pet3r's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pet3r1512)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Leetcode Stats
-![Leetcode Stats]([https://leetcode.com/u/Pet3r1512/](https://leetcard.jacoblin.cool/Pet3r1512?theme=nord&font=Viga))
+![Leetcode Stats](https://leetcard.jacoblin.cool/Pet3r1512?theme=nord&font=Viga)
