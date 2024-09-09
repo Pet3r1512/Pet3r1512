@@ -17,7 +17,11 @@
       - ORM: Prisma
       - Google Firebase, Supabase, Planetscale, Xata
 
-   - <strong>Testing and hosting</strong>: Vercel, Railway, Gtihub Pages, Render, CircleCI
+   - <strong>Deploy & hosting</strong>: Vercel, Railway, Gtihub Pages, Render
+
+   - <strong>Testing</strong>: Vitest
+
+   - <strong>CI/CD</strong>: CircleCI
 
    - <strong>Design Ideas</strong>: Figma Community, Dribbble
 
