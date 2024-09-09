@@ -6,10 +6,10 @@
  
    - <strong>Web Development</strong>: 
       - HTML5(HTML-preprocessors: Pug, Handlebars, EJS), CSS3(CSS-preprocessors: SASS, CSS Frameworks: Bootstrap, Tailwind), JavaSript(ES6), TypeScript
-      - Libraries and Frameworks: ReactJS, NextJS(Page Router), ExpressJS
+      - Libraries and Frameworks: ReactJS, NextJS, ExpressJS
       - UI Libraries: MUI, DaisyUI, Shadcn, Tailwind Material, Aceternity
 
-   - <strong>APIs</strong>: REST
+   - <strong>APIs</strong>: tRPC + React Query
    
    - <strong>Databases</strong>: 
       - SQL: MS SQL Server, SQLite
