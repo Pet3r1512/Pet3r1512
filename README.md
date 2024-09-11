@@ -21,7 +21,7 @@
 
    - <strong>Testing</strong>: Vitest
 
-   - <strong>CI/CD</strong>: Vercel, CircleCI
+   - <strong>CI/CD</strong>: Vercel
 
    - <strong>Design Ideas</strong>: Figma Community, Dribbble
 
