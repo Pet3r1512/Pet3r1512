@@ -23,9 +23,9 @@
 
    - <strong>CI/CD</strong>: Vercel
 
-   - <strong>Design Ideas</strong>: Figma Community, Dribbble
+   - <strong>Design Ideas</strong>: Figma Community, Dribbble, Pinterest
 
-   - <strong>Package management and build tools</strong>: NPM, ViteJS
+   - <strong>Package management and build tools</strong>: NPM, PNPM, ViteJS
 
    - <strong>UI/UX Designing</strong>: Figma
 
