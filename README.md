@@ -19,7 +19,7 @@
 
    - <strong>Deploy & hosting</strong>: Vercel, Railway, Gtihub Pages, Render
 
-   - <strong>Testing</strong>: Vitest
+   - <strong>Testing</strong>: Vitest, Playwright
 
    - <strong>CI/CD</strong>: Vercel
 
@@ -27,11 +27,11 @@
 
    - <strong>Package management and build tools</strong>: NPM, ViteJS
 
-   - <strong>UI Designing</strong>: Figma (Basics)
+   - <strong>UI/UX Designing</strong>: Figma
 
    - <strong>Tools</strong>: Visual Studio Code, Git, Terminal (Powershell), Alacritty
 
-   - <strong>Collaboration tools</strong>: Taskade, Jira, Discord
+   - <strong>Collaboration & Task Management tools</strong>: Taskade, Jira, Discord, Notion
 
    - <strong>Operating Systems</strong>: Windows, Linux(Pop OS)
 
