@@ -1,6 +1,11 @@
 # Hi there 👋 
 
 # My name is Peter <3 from Vietnam ![](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/36/country-4x3/vn.png)
+
+## Current project
+
+I am working on DevIniter project which is a product for users to install starter templates to kick their project off right away without spending time setting everything up.
+
 ## Technology Envovled
    - <strong>Programming languages</strong>: C, Java, Python
  
