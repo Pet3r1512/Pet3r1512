@@ -26,7 +26,7 @@ I am working on [DevIniter](https://www.deviniter.site/) project which is a prod
 
    - <strong>Testing</strong>: Vitest, Playwright
 
-   - <strong>CI/CD</strong>: Vercel
+   - <strong>CI/CD</strong>: Github Actions, Vercel
 
    - <strong>Design Ideas</strong>: Figma Community, Dribbble, Pinterest
 
