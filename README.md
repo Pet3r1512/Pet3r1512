@@ -11,7 +11,7 @@ I am working on [DevIniter](https://www.deviniter.site/) project which is a prod
  
    - <strong>Web Development</strong>: 
       - HTML5(HTML-preprocessors: Pug, Handlebars, EJS), CSS3(CSS-preprocessors: SASS, CSS Frameworks: Bootstrap, Tailwind), JavaSript(ES6), TypeScript
-      - Libraries and Frameworks: ReactJS, NextJS, ExpressJS
+      - Libraries and Frameworks: ReactJS, NextJS, ExpressJS, Hono
       - UI Libraries: MUI, DaisyUI, Shadcn, Tailwind Material, Aceternity
 
    - <strong>APIs</strong>: tRPC + React Query
@@ -22,7 +22,7 @@ I am working on [DevIniter](https://www.deviniter.site/) project which is a prod
       - ORM: Prisma
       - Google Firebase, Supabase, Planetscale, Xata
 
-   - <strong>Deploy & hosting</strong>: Vercel, Railway, Gtihub Pages, Render
+   - <strong>Deploy & hosting</strong>: Vercel, Railway, Gtihub Pages, Render, Koyeb
 
    - <strong>Testing</strong>: Vitest, Playwright
 
@@ -39,8 +39,6 @@ I am working on [DevIniter](https://www.deviniter.site/) project which is a prod
    - <strong>Collaboration & Task Management tools</strong>: Taskade, Jira, Discord, Notion
 
    - <strong>Operating Systems</strong>: Windows, Linux(Pop OS)
-
-   - <strong>Others understanding</strong>: Object-oriented programming, Basis Data Analyzing(CSV): Python
 
 ### Most used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pet3r1512&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
