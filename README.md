@@ -44,7 +44,7 @@ I am working on [DevIniter](https://www.deviniter.site/) project which is a prod
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pet3r1512&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My Stats
-[![Pet3r's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pet3r1512)](https://github.com/anuraghazra/github-readme-stats)
+[![Pet3r's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pet3r1512&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Leetcode Stats
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Pet3r1512?theme=nord&font=Viga)
