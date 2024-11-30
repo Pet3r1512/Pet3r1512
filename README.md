@@ -11,30 +11,30 @@ I am working on [DevIniter](https://www.deviniter.site/) project which is a prod
  
    - <strong>Web Development</strong>: 
       - HTML5(HTML-preprocessors: Pug, Handlebars, EJS), CSS3(CSS-preprocessors: SASS, CSS Frameworks: Bootstrap, Tailwind), JavaSript(ES6), TypeScript
-      - Libraries and Frameworks: ReactJS, NextJS, ExpressJS, Hono
+      - Libraries and Frameworks: ReactJS, NextJS, ExpressJS, Hono, Vite - ReactJS
       - UI Libraries: MUI, DaisyUI, Shadcn, Tailwind Material, Aceternity
-
-   - <strong>APIs</strong>: tRPC + React Query
+      - Other tools: tRPC, React Query, Tanstack Router
+      - Build tools: Vite, Tsup
    
    - <strong>Databases</strong>: 
-      - SQL: MS SQL Server, SQLite
+      - SQL: MS SQL Server, SQLite, PostgreSQL
       - NoSQL: MongoDB
       - ORM: Prisma
       - Google Firebase, Supabase, Planetscale, Xata
 
-   - <strong>Deploy & hosting</strong>: Vercel, Railway, Gtihub Pages, Render, Koyeb
+   - <strong>Deploy & hosting</strong>: Vercel, Railway, Gtihub Pages, Render, Koyeb, Cloudflare
 
-   - <strong>Testing</strong>: Vitest, Playwright
+   - <strong>Testing</strong>: Vitest, Playwright, Storybook (learning)
 
    - <strong>CI/CD</strong>: Github Actions, Vercel
 
    - <strong>Design Ideas</strong>: Figma Community, Dribbble, Pinterest
 
-   - <strong>Package management and build tools</strong>: NPM, PNPM, ViteJS
+   - <strong>Package managements</strong>: NPM, PNPM
 
    - <strong>UI/UX Designing</strong>: Figma
 
-   - <strong>Tools</strong>: Visual Studio Code, Git, Terminal (Powershell), Alacritty
+   - <strong>Tools</strong>: Visual Studio Code, Git, Terminal (Powershell), Alacritty, Fork
 
    - <strong>Collaboration & Task Management tools</strong>: Taskade, Jira, Discord, Notion
 
