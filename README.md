@@ -7,7 +7,7 @@
 I am working on [DevIniter](https://www.deviniter.site/) project which is a product for users to install starter templates to kick their project off right away without spending too much time setting everything up. You can come by to [DevIniter Github](https://github.com/Pet3r1512/DevIniter) and star it for me <3
 
 ## Technology Envovled
-   - <strong>Programming languages</strong>: C, Java, Python
+   - <strong>Programming languages</strong>: Python
  
    - <strong>Web Development</strong>: 
       - HTML5(HTML-preprocessors: Pug, Handlebars, EJS), CSS3(CSS-preprocessors: SASS, CSS Frameworks: Bootstrap, Tailwind), JavaSript(ES6), TypeScript
