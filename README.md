@@ -13,14 +13,14 @@ I am working on [DevIniter](https://www.deviniter.site/) project which is a prod
       - HTML5(HTML-preprocessors: Pug, Handlebars, EJS), CSS3(CSS-preprocessors: SASS, CSS Frameworks: Bootstrap, Tailwind), JavaSript(ES6), TypeScript
       - Libraries and Frameworks: ReactJS, NextJS, ExpressJS, Hono, Vite - ReactJS
       - UI Libraries: MUI, DaisyUI, Shadcn, Tailwind Material, Aceternity
-      - Other tools: tRPC, React Query, Tanstack Router
+      - Other tools: tRPC, Tanstack Query, Tanstack Router, React-hook-form
       - Build tools: Vite, Tsup
    
    - <strong>Databases</strong>: 
       - SQL: MS SQL Server, SQLite, PostgreSQL
       - NoSQL: MongoDB
-      - ORM: Prisma
-      - Google Firebase, Supabase, Planetscale, Xata
+      - ORM: Prisma, Drizzle
+      - Google Firebase, Supabase, Planetscale, Xata, Neon
 
    - <strong>Deploy & hosting</strong>: Vercel, Railway, Gtihub Pages, Render, Koyeb, Cloudflare
 
@@ -34,7 +34,7 @@ I am working on [DevIniter](https://www.deviniter.site/) project which is a prod
 
    - <strong>UI/UX Designing</strong>: Figma
 
-   - <strong>Tools</strong>: Visual Studio Code, Git, Terminal (Powershell), Alacritty, Fork
+   - <strong>Tools</strong>: Visual Studio Code, Git, Terminal (Powershell), Wezterm, Alacritty, Fork
 
    - <strong>Collaboration & Task Management tools</strong>: Taskade, Jira, Discord, Notion
 
