@@ -2,12 +2,12 @@
 
 # My name is Peter <3 from Vietnam ![](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/36/country-4x3/vn.png)
 
-## Current project
+## Current Project
 
 I am working on [DevIniter](https://www.deviniter.site/) project which is a product for users to install starter templates to kick their project off right away without spending too much time setting everything up. You can come by to [DevIniter Github](https://github.com/Pet3r1512/DevIniter) and star it for me <3
 
 ## Technology Envovled
-   - <strong>Programming languages</strong>: Python
+   - <strong>Programming Languages</strong>: Python
  
    - <strong>Web Development</strong>: 
       - HTML5(HTML-preprocessors: Pug, Handlebars, EJS), CSS3(CSS-preprocessors: SASS, CSS Frameworks: Bootstrap, Tailwind), JavaSript(ES6), TypeScript
@@ -19,7 +19,7 @@ I am working on [DevIniter](https://www.deviniter.site/) project which is a prod
    - <strong>Databases</strong>: 
       - SQL: MS SQL Server, SQLite, PostgreSQL
       - NoSQL: MongoDB
-      - ORM: Prisma, Drizzle
+      - ORMs: Prisma, Drizzle
       - Google Firebase, Supabase, Planetscale, Xata, Neon
 
    - <strong>Deploy & hosting</strong>: Vercel, Railway, Gtihub Pages, Render, Koyeb, Cloudflare
@@ -30,7 +30,7 @@ I am working on [DevIniter](https://www.deviniter.site/) project which is a prod
 
    - <strong>Design Ideas</strong>: Figma Community, Dribbble, Pinterest
 
-   - <strong>Package managements</strong>: NPM, PNPM
+   - <strong>Package managements</strong>: npm, pnpm
 
    - <strong>UI/UX Designing</strong>: Figma
 
