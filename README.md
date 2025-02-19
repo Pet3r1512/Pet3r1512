@@ -10,7 +10,7 @@ I am working on [DevIniter](https://www.deviniter.site/) project which is a prod
    - <strong>Programming Languages</strong>: Python
  
    - <strong>Web Development</strong>: 
-      - HTML5(HTML-preprocessors: Pug, Handlebars, EJS), CSS3(CSS-preprocessors: SASS, CSS Frameworks: Bootstrap, Tailwind), JavaSript(ES6), TypeScript
+      - HTML5(HTML-preprocessors: Pug, Handlebars, EJS), CSS3(CSS-preprocessors: SASS, CSS Frameworks: Bootstrap, TailwindCSS), JavaSript(ES6), TypeScript
       - Libraries and Frameworks: ReactJS, NextJS, ExpressJS, Hono, Vite - ReactJS
       - UI Libraries: MUI, DaisyUI, Shadcn, Tailwind Material, Aceternity
       - Other tools: tRPC, Tanstack Query, Tanstack Router, React-hook-form
@@ -26,7 +26,7 @@ I am working on [DevIniter](https://www.deviniter.site/) project which is a prod
 
    - <strong>Testing</strong>: Vitest, Playwright, Storybook (learning)
 
-   - <strong>CI/CD</strong>: Github Actions, Vercel
+   - <strong>CI/CD</strong>: Github Actions, Vercel, Docker (learning)
 
    - <strong>Design Ideas</strong>: Figma Community, Dribbble, Pinterest
 
