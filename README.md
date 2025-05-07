@@ -34,11 +34,13 @@ I am working on [DevIniter](https://www.deviniter.site/) project which is a prod
 
    - <strong>UI/UX Designing</strong>: Figma
 
-   - <strong>Tools</strong>: Visual Studio Code, Git, Terminal (Powershell), Wezterm, Alacritty, Fork
+   - <strong>Tools</strong>: Visual Studio Code, Git, Terminal (Powershell), Warp, Alacritty, Fork
 
    - <strong>Collaboration & Task Management tools</strong>: Taskade, Jira, Discord, Notion
 
-   - <strong>Operating Systems</strong>: Windows, Linux(Pop OS)
+   - <strong>Operating Systems</strong>: Windows, MacOS, Linux(Pop OS)
+
+   - <strong>Learning</strong>: System Design, DevOps, Testing, Cloud 
 
 ### Most used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pet3r1512&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
