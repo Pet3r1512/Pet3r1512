@@ -4,7 +4,9 @@
 
 ## Current Project
 
-<img src="https://raw.githubusercontent.com/Pet3r1512/Zemonie/88d8300505b60d24abe13930218d6829072189f5/client/public/logo/zemonie-wordmark-light.svg" />
+<div align="center">
+   <img class="m" src="https://raw.githubusercontent.com/Pet3r1512/Zemonie/88d8300505b60d24abe13930218d6829072189f5/client/public/logo/zemonie-wordmark-light.svg" />
+</div>
 
 I am working on [Zemonie](https://www.zemonie.site/) which is a Money Management tool for GenZ. Users can track their income and spendings a long with other analytics from their finance behaviours. Take a look of [Zemonie Repo](https://github.com/Pet3r1512/Zemonie) and give me a star to support me 🥰.
 
