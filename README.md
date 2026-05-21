@@ -4,7 +4,7 @@
 
 ## Current Project
 
-<svg width="310" height="88" viewBox="0 0 310 88" xmlns="http://www.w3.org/2000/svg">
+[<svg width="310" height="88" viewBox="0 0 310 88" xmlns="http://www.w3.org/2000/svg">
   <!-- Icon -->
   <rect width="88" height="88" rx="20" fill="#FF7900"/>
   <g fill="white">
@@ -17,7 +17,7 @@
   <!-- Wordmark -->
   <text x="104" y="43" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="800" font-size="30" fill="#FF7900" letter-spacing="-1">zemonie</text>
   <text x="105" y="63" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="500" font-size="11" fill="#aaaaaa" letter-spacing="0.13em">MONEY FOR GEN Z</text>
-</svg>
+</svg>](https://raw.githubusercontent.com/Pet3r1512/Zemonie/88d8300505b60d24abe13930218d6829072189f5/client/public/logo/zemonie-wordmark-light.svg)
 
 I am working on [Zemonie](https://www.zemonie.site/) which is a Money Management tool for GenZ. Users can track their income and spendings a long with other analytics from their finance behaviours. Take a look of [Zemonie Repo](https://github.com/Pet3r1512/Zemonie) and give me a star to support me 🥰.
 
