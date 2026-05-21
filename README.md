@@ -1,6 +1,6 @@
 # Hi there 👋 
 
-# My name is Peter <3 from Vietnam ![](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/36/country-4x3/vn.png)
+# My name is Peter <3 from Vietnam ![](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/36/country-4x3/vn.png) and currently living in Australia ![](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/75/country-4x3/au.png)
 
 ## Current Project
 
