@@ -4,7 +4,7 @@
 
 ## Current Project
 
-I am working on [DevIniter](https://deviniter.vercel.app/) project which is a product for users to install starter templates to kick their project off right away without spending too much time setting everything up. You can come by to [DevIniter Github](https://github.com/Pet3r1512/DevIniter) and star it for me <3
+I am working on [Zemonie](https://www.zemonie.site/) which is a Money Management tool for GenZ. Users can track their income and spendings a long with other analytics from their finance behaviours. Take a look of [Zemonie Repo](https://github.com/Pet3r1512/Zemonie) and give me a star to support me 🥰.
 
 ## Technology Envovled
    - <strong>Programming Languages</strong>: Python
